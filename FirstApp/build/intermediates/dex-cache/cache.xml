@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\nicket\UC\Android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\classes-839c8628e6f49e405b66c10018a0712530befc9d.jar" />
+    </item>
+    <item
+        jar="D:\nicket\UC\Android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ec1db2565085ca25732e41514be79ab3deaf52f1.jar" />
+    </item>
+    <item
+        jar="D:\nicket\UC\Android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\classes-dfa3604e65fc24ddced563f7859ea6b955efd6a9.jar" />
+    </item>
+    <item
+        jar="D:\nicket\UC\Android\Android2\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c1eaad62e22956339a06398b296417332da44c7f.jar" />
+    </item>
+
+</items>

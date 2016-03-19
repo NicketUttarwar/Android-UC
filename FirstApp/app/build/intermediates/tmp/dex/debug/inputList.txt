@@ -1,0 +1,5 @@
+D:\nicket\UC\Android\FirstApp\app\build\intermediates\classes\debug
+D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c1eaad62e22956339a06398b296417332da44c7f.jar
+D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ec1db2565085ca25732e41514be79ab3deaf52f1.jar
+D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\classes-839c8628e6f49e405b66c10018a0712530befc9d.jar
+D:\nicket\UC\Android\FirstApp\app\build\intermediates\pre-dexed\debug\classes-dfa3604e65fc24ddced563f7859ea6b955efd6a9.jar
